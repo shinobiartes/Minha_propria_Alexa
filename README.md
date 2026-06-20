@@ -1,12 +1,12 @@
 # 🚀 [Fiz meu propria ALEXA usando esp32s3]
 
 ## 📸 ALEXA COM ESP32
-![Menu](alexa(1).png)
+![Menu](alexa.png)
 
-![Menu](chat2.png)
+![Menu](alexa2.png)
 
 ## 📸 Circuito e Montagem
-![Esquema do Projeto](alexa.png)
+![Esquema do Projeto](ALEXA1.png)
 
 
 Este repositório contém todos os arquivos necessários para replicar o projeto apresentado no canal **[ShinobiArts]**.
@@ -15,8 +15,8 @@ Este repositório contém todos os arquivos necessários para replicar o projeto
 
 ## 📺 Assista ao Vídeo do Projeto
 
-[![Assista no YouTube](https://img.shields.io/badge/YouTube-Assistir%20Vídeo-red?style=for-the-badge&logo=youtube)]([https://youtu.be/nPQnve32v9o](https://youtu.be/A4O52m6auhk))
-![Menu](alexa capa.png)
+[![Assista no YouTube](https://img.shields.io/badge/YouTube-Assistir%20Vídeo-red?style=for-the-badge&logo=youtube)]([[https://youtu.be/nPQnve32v9o](https://youtu.be/A4O52m6auhk](https://youtu.be/dQec9yD99ps)))
+![Menu](alexa_capa.png)
 
 ---
 
